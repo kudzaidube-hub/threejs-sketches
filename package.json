@@ -1,0 +1,19 @@
+{
+  "name": "threejs-getting-started",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "deploy": "gh-pages -d dist"
+    
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

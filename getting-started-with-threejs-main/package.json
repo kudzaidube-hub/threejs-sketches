@@ -1,0 +1,12 @@
+{
+  "name": "ThreeJS-Getting-Started",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+  
+  }
+}
